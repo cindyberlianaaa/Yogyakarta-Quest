@@ -7,12 +7,12 @@ The "Exploring the Uniqueness of Tourism in Yogyakarta" travel application is a 
 
 | Name        | Student ID           | Learning Path  |
 | ------------- |:-------------:| -----:|
-| [Ahmad Bujai Rimi] | M204BSY0787 |  Machine Learning |
-| [Firdaus Fajar Ustmani] | M660BSY1225 |  Machine Learning |
-| [Moch. Chaidar Chanif] | M225BSY0418 | Machine Learning |
-| [Ayunda Wardhatul Fitrah] | C296BSX4093 | Cloud Computing |
-| [Cindy Berliana Latansyah] | C296BSX3983 | Cloud Computing |
-| [Revinindia Oktaimanuella] | A296BSX2947 | Mobile Development |
+| Ahmad Bujai Rimi | M204BSY0787 |  Machine Learning |
+| Firdaus Fajar Ustmani | M660BSY1225 |  Machine Learning |
+| Moch. Chaidar Chanif | M225BSY0418 | Machine Learning |
+| Ayunda Wardhatul Fitrah | C296BSX4093 | Cloud Computing |
+| Cindy Berliana Latansyah | C296BSX3983 | Cloud Computing |
+| Revinindia Oktaimanuella | A296BSX2947 | Mobile Development |
 
 Documentation of our project is available on the readme.md file in our team repository 
 ## Our Project Plan Document
